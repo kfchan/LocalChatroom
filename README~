@@ -1,0 +1,3 @@
+To use:
+- run Chatroom
+- then open other terminals and run the command: 'telnet localhost <port#>'

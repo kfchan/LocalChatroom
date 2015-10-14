@@ -1,0 +1,5 @@
+To use:
+- run Chatroom (with optional port#)
+- default port# is 8080
+- then open other terminals and run the command: 'telnet localhost <port#>'
+- use the chatroom! :)
